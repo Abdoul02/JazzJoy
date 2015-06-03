@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">STANDARD BANK JOY OF JAZZ</string>
+    <string name="welcome">Welcome</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="contentDesc">image Content</string>
+    <string name="confirm_exit">Press Back button again to exit</string>
+    
+    <!-- Left Menu Items -->
+	
+    <string name="menu">Menu</string>
+    <string name="about_us">About</string>
+    <string name="lineup">Lineup</string>
+    <string name="events">Events</string>
+    <string name="tickets">Tickets</string>
+    <string name="hospitality">Hospitality</string>
+    <string name="contact">Contact</string>
+    <string name="facebook">Facebook</string>
+    <string name="twitter">Twitter</string>
+    <string name="Instagram">Instagram</string>
+    <string name="youtube">YouTube</string>
+
+    
+    <!-- Portfolio -->
+    <string name="wallpaper_set">Wallpaper set</string>
+    <string name="wallpaper_error">Wallpaper error</string>
+    <string name="image_saved">Image saved</string>
+    <string name="error_occured">Error occurred</string>
+    <string name="please_wait">Please wait&#8230;</string>
+    <string name="share">"Share:"</string>
+    <string name="no">"No"</string>
+    <string name="yes">"Yes"</string>
+    <string name="dialog_wallpaper">"Do you want to set wallpaper?"</string>
+    <string name="dialog_save">"Do you want to save this image?"</string>
+    <string name="dialog_share">"Do you want to share this image?"</string>
+    
+    <!-- Events -->
+    <string name="page_title">Events</string>
+
+    <string name="event_title">—Media Announcement, 19h May 2015 </string>
+
+    <string name="event_one_title">—Jazz Cares, 3rd June </string>
+    <string name="event_one_description">A special show for members of our communities who usually never get the opportunity to experience live shows. They include senior citizens, the disabled and community workers in hospices, orphanages and social welfare centers.</string>
+
+
+
+    <string name="event_two_title">—Geleza Kleva and Learn</string>
+    <string name="event_two_description">16th July Cosmo City Community Centre \n 23rd  July Ivory Park Community Centre \n
+30th  July Eldorado Park Community Centre</string>
+
+
+
+    <string name="event_three_title">—Celebrate Women in Arts, 22nd August</string>
+    <string name="event_three_description">A pamper day for 100 women in arts. The day starts with visiting sites that talk women in arts and end at a picnic place where they will be pampered and entertained.</string>
+
+
+    <string name="event_four_title">—Jazz Colloquium, 09th September</string>
+    <string name="event_four_description">The Colloquium is a high-level talk shop for the industry.  Sector, industry leaders and opinion makers are invited to the colloquium to participate in discussion.</string>
+
+
+    <string name="event_five_title">—Jazz in the City, \n  17-20th September Nelson Mandela Square </string>
+    <string name="event_five_description">
+Jazz activations with Development Bands </string>
+
+
+    <string name="event_six_title">—Golf Day, 22nd September \n Johannesburg</string>
+    <string name="event_six_description"></string>
+
+    <string name="event_seven_title">—Mayoral Welcome, 23rd September \n Johannesburg</string>
+    <string name="event_seven_description">
+Welcome cocktail party hosted by the mayor of Johannesburg</string>
+
+
+    <string name="event_eight_title">—Music Workshops, 23th, 25th, 26th September \n Music Schools  - Gauteng </string>
+    <string name="event_eight_description">
+Music workshops conducted by visiting and local artists</string>
+
+
+    <string name="event_nine_title">—Press Conference, 25th September</string>
+    <string name="event_nine_description">A special show for members of our communities who usually never get the opportunity to experience live shows. They include senior citizens, the disabled and community workers in hospices, orphanages and social welfare centers.</string>
+
+    <string name="event_ten_title">—Festival Days, 24-26 September Johannesburg -Sandton</string>
+    <string name="event_ten_description"></string>
+
+
+    <string name="event_eleven_title">—Post event TOUR, 27 September JOHANNESBURG</string>
+    <string name="event_eleven_description">
+A familiarization tour coordinated by Gauteng Tourism Authority for visiting and local artists.</string>
+
+
+
+
+
+    <!-- Abouts (currently no strings) -->
+
+    <string name="about_page_title">About</string>
+
+    <string name="about_title">—Programme</string>
+    <string name="about_description">The Joy of Jazz is South Africa\'s oldest jazz festival. We have been entertaining Nations for  seventeen years uninterrupted. Contributing to Social Cohesion, Economic Growth and Cultural Tourism. The event takes place in Johannesburg, Africa\'s greatest city, a bold and pulsating metropolis. \n\nAUTHENTIC JAZZ FESTIVAL \n Featuring 90percent JAZZ - 10percent Sub-Genres of Jazz</string>
+
+    <string name="about_one_title">—You Will Hear</string>
+    <string name="about_one_description">
+AVANT-GARDE,  STRAIGHT AHEAD, ACID, AFRICAN JAZZ sounds like KWELA and MARABI, RHYTHM and BLUES, NEO SOUL, WORLD MUSIC and everything in between and around.
+The artist line-up is world-class, featuring an immense presence of the best jazz musicians  from South Africa, the rest of the African continent, the Americas, Europe and Asia.</string>
+
+
+    <string name="about_two_title">—Jazz Cares</string>
+    <string name="about_two_description">Jazz Cares is a program of shows in various locations for people who do not ordinarily get the opportunity to attend commercial live shows. Jazz Cares events are staged for guests that include the aged, people with disabilities, community workers in organizations such as hospices and orphanages. These events feature commercially established acts and local bands from the areas.</string>
+
+
+
+    <string name="about_three_title">—Jazz Education and Development</string>
+    <string name="about_three_description">Purposeful development programs are implemented as an integral part of the Standard Bank Joy of Jazz. It comprises community development programs inspired to develop the sector and to reach out to those with limited opportunities. The development programs consists of Geleza Kleva and Learn and Music Schools Workshops.</string>
+
+
+    <string name="about_four_title">—Geleza Kleva and Learn</string>
+    <string name="about_four_description">As practitioners in the arts industry, it is our responsibility to find ways to ensure that the youth is empowered and presented with life rewarding opportunities that build them to become productive and disciplined citizens. \n\n Service delivery is fast becoming the key issue to address most of these challenges facing the youth and this educational initiative that will ensure that the life skills within the industry are shaped and provided with proper channel to build careers. Many of our young people want to start their careers in the music industry but due to the misconception and lack of proper understanding and information circulated</string>
+
+
+    <string name="about_six_title">—Music Schools Workshops</string>
+    <string name="about_six_description">Visiting International and Local Artists provide master classes for students and each institutions community – Skills Development The community comprise Musicians, Aspiring Promoters, Technicians and Event Management Companies from that area. The workshops have been running successfully for a number of years now with institutions and artists describing them as valuable.</string>
+
+
+    <string name="about_seven_title">—The Breakfast Colloquium</string>
+    <string name="about_seven_description">The Breakfast Colloquium is a high level talk shop for industry leaders. This breakfast event features a presentation by an industry leader or expert about a chosen issue in the music sector. Other sector and industry leaders and opinion makers are invited to the colloquium to participate in discussion.</string>
+
+
+    <string name="about_nine_title">—Golf Day</string>
+    <string name="about_nine_description">The Golf Day is one of the festival\'s key audience development initiatives – to grow the festival market among golfers. Where possible the Golf Day also feature leading musicians who also play golf. \n\nWe do what we do because we love and we are passionate about what JAZZ CATS of all shades, love to hear and experience. We are also crazy about jazz and to share it with people around the world.</string>
+
+    <string name="about_ten_title">—Golf Day 35 Peformances, 4 STAGES, OVER 3 DAYS</string>
+    <string name="about_ten_description"></string>
+
+
+    <!-- Tickets (currently no strings) -->
+
+    <string name="tickets_page_title">Tickets</string>
+
+    <string name="tickets_title">24 September 2015\n(OPENING NIGHT) </string>
+    <string name="tickets_description"> - R 500 1 Stage only special show by Prince Lengoasa ft SJOJ Amaqhawekazi (18 piece female big band)sharing the stage with Yellow jackets and Larry Carlton.</string>
+
+    <string name="tickets_one_title">25 September 2015</string>
+    <string name="tickets_one_description">Day Pass ( it allows to go to all 4 stages on the day). </string>
+
+
+    <string name="tickets_two_title">26 September 2015</string>
+    <string name="tickets_two_description">Day Pass ( it allows entry to all the 4 stages on the day).</string>
+
+
+    <string name="tickets_three_title">25 and 26 September 2015 Johannesburg</string>
+    <string name="tickets_three_description">Weekend Pass ( it allows you entry to all 4 stages over the 2 days).</string>
+
+
+
+    <!-- Contact -->
+    <string name="address">ADDRESS</string>
+    <string name="email">EMAIL</string>
+    <string name="web">WEB</string>
+    <string name="mobile_phone">PHONE</string>
+    <string name="office_phone">OFFICE</string>
+    <string name="fax_phone">FAX</string>
+	<string name="open_map">VIEW ON THE MAP</string>
+	<string name="phone_numbers">PHONE NUMBERS</string>
+	<string name="call">CALL</string>
+	<string name="send">SEND</string>
+	<string name="visit">VISIT</string>
+	<string name="no_data_available">(no data available)</string>
+	<string name="number_not_available">Number not available</string>
+	<string name="email_not_available">Email not available</string>
+	<string name="website_not_available">Website not available</string>
+    <string name="bg">bg</string>
+
+</resources>

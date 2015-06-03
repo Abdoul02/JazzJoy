@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="libs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/BusinessPortfolio/libs/gallery-lib.jar!/" />
+      <root url="jar://$PROJECT_DIR$/BusinessPortfolio/libs/android-support-v4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/BusinessPortfolio/libs/gson-2.2.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/BusinessPortfolio/libs/libGoogleAnalyticsServices.jar!/" />
+      <root url="jar://$PROJECT_DIR$/BusinessPortfolio/libs/universal-image-loader.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
